@@ -26,7 +26,7 @@ To make the most out of this repository, you can follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/nodejs-interview-questions.git
+git clone https://github.com/abdulazizv/nodejs-interview-questions.git
 ```
 
 Navigate to the cloned repository:
